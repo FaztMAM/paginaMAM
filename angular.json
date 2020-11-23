@@ -122,6 +122,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "paginaMAM"
+    }
+  },
+  "defaultProject": "paginaMAM",
+  "cli": {
+    "analytics": "f7e209af-abb8-4a1d-b46f-99367aaa1573"
+  }
 }
